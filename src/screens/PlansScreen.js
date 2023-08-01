@@ -18,7 +18,7 @@ function PlansScreen() {
       customer: {
         email: user.email,
         phone_number: "070********",
-        name: user.name,
+        name: user.email,
       },
       customizations: {
         title: "Netflix",
